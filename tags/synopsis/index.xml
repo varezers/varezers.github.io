@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>synopsis on Varezers</title>
+    <link>//varezers.org/tags/synopsis/</link>
+    <description>Recent content in synopsis on Varezers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//varezers.org/tags/synopsis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to visual arts</title>
+      <link>//varezers.org/painting/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/painting/</guid>
+      <description>Congratulations on reaching top of Maslov&amp;rsquo;s hierarchy of needs, even if you decided to skip a few layers. But to be fair to painting - it is extremely therapeutic, interesting and one more creative way to annoy people with some unnecessarily personal gifts.
+The hobby in itself might seem forbiddingly expensive but in reality a lot of fun can be squeezed out of the tube of paint.
+Tools &amp;amp; consumables Surface - depends on viscosity of a medium.</description>
+    </item>
+    
+    <item>
+      <title>Guide to homemade Rodinal, stop solution &amp; fixing agent for analog photography in hostile environments</title>
+      <link>//varezers.org/rodiynal/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/rodiynal/</guid>
+      <description>Despite latest surge in popularity future of film photography is uncertain. I documented most popular homemade development solution recipes and calculated proportions of chemicals needed so any amount of any chemical can be measured accordingly. For more information on development check out further reading.
+Safety is your responsibility. Please handle all chemistry with respect it deserves - wear protective gloves and goggles, don&#39;t inhale or ingest chemistry, abstain from eating, bathroom and touching eyes without thoroughly washing your hands.</description>
+    </item>
+    
+    <item>
+      <title>Perverts guide to photography</title>
+      <link>//varezers.org/on-photography/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/on-photography/</guid>
+      <description>Photographers vision, good light, tasteful editing and lens are more important than the camera body. Visiting museums, galleries and expositions, and developing ones style is more beneficial than recreational technofetishism. Pretty much any modern camera will be leagues more advanced than what masters of old could afford at any moment in history.
+There is no &amp;ldquo;real&amp;rdquo; camera as they all do pretty much the same thing. Most people will not see any differences scrolling past on their social media feed.</description>
+    </item>
+    
+    <item>
+      <title>Good films</title>
+      <link>//varezers.org/films/</link>
+      <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/films/</guid>
+      <description>Science Fiction  Arrival (2016) by Denis Villeneuve - twelve extraterrestrial spacecraft appear at twelve different locations across the Earth;
+ Autómata (2014) by Gabe Ibáñez - In the late 2030s, solar flares irradiate the Earth, killing over 99% of the world&amp;rsquo;s population. The survivors gather in a network of safe cities and build primitive humanoid robots, called Pilgrims, to help rebuild and operate in the harsh environment;
+ Blade Runner (1982) by Ridley Scott - is an adaptation of the 1968 novel Do Androids Dream of Electric Sheep?</description>
+    </item>
+    
+    <item>
+      <title>Sections and outlines in HTML5</title>
+      <link>//varezers.org/sections-and-outlines-in-html5/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/sections-and-outlines-in-html5/</guid>
+      <description>Mozilla provides by far the best HTML5 introduction guide available on the net. Here I will outline tl;dr and provide example of «The Holy Grail» layout.
+Address The address element represents the contact information for its nearest article or body element ancestor.
+Article &amp;ldquo;The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication.</description>
+    </item>
+    
+    <item>
+      <title>Kas jāievēro ikvienam dzimtenes ceļiniekam</title>
+      <link>//varezers.org/celvedis-pa-dzimto-zemi/</link>
+      <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/celvedis-pa-dzimto-zemi/</guid>
+      <description>Izraksts no K. Vanaga grāmatas «Ceļvedis pa dzimto zemi» 1. daļas &amp;ldquo;Vidzeme un Latgale&amp;rdquo; (Sabiedrisko lietu ministrijas Tūrisma nodaļas izdevums 1937).
+Cēls un skaists ir tūrisma sports, tādēļ dzimtenes apceļotājam visur jāuzvedas tā, lai pret tūristiem sajustu cienību. Noželojami ir tie, kas saka, ka ceļojumā ievērot pieklājību nozīmē sagādāt sev neērtības. Tie nav tūristi, kas ceļojot atstājuši mājās pieklājību un smalkjūtību, iedomājoties, ka svešā malā neviens viņu nepazīs. Pieklājība jāievēro nevien darbos un vārdos, bet arī apģērbā.</description>
+    </item>
+    
+  </channel>
+</rss>

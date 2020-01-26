@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photography on Varezers</title>
+    <link>//varezers.org/tags/photography/</link>
+    <description>Recent content in photography on Varezers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//varezers.org/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guide to homemade Rodinal, stop solution &amp; fixing agent for analog photography in hostile environments</title>
+      <link>//varezers.org/rodiynal/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/rodiynal/</guid>
+      <description>Despite latest surge in popularity future of film photography is uncertain. I documented most popular homemade development solution recipes and calculated proportions of chemicals needed so any amount of any chemical can be measured accordingly. For more information on development check out further reading.
+Safety is your responsibility. Please handle all chemistry with respect it deserves - wear protective gloves and goggles, don&#39;t inhale or ingest chemistry, abstain from eating, bathroom and touching eyes without thoroughly washing your hands.</description>
+    </item>
+    
+    <item>
+      <title>Perverts guide to photography</title>
+      <link>//varezers.org/on-photography/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/on-photography/</guid>
+      <description>Photographers vision, good light, tasteful editing and lens are more important than the camera body. Visiting museums, galleries and expositions, and developing ones style is more beneficial than recreational technofetishism. Pretty much any modern camera will be leagues more advanced than what masters of old could afford at any moment in history.
+There is no &amp;ldquo;real&amp;rdquo; camera as they all do pretty much the same thing. Most people will not see any differences scrolling past on their social media feed.</description>
+    </item>
+    
+  </channel>
+</rss>
