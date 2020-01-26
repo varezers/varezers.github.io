@@ -1,0 +1,9 @@
+{{ partial "header" . }}
+{{ partial "welcome" . }}
+<section>
+	<p>Something seems missing. Try the archive instead</p>
+	{{ range first 10 .Data.Pages }}
+	{{ .Render "list" }}
+	{{ end }}
+</section>
+{{ partial "footer" . }}

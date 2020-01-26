@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ if isset .Params "language" }}{{ .Params.language }}{{ else }}en{{ end }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{ .Title }}</title>
+	{{ if .IsPage }}
+	<meta name="description" content="{{ .Description }}">
+	{{ else }}
+	<meta name="description" content="{{ .Site.Params.Description }}">
+	{{ end }}
+	<meta name="robots" content="index,follow,notranslate,noarchive">
+	<link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+	<link rel="icon" type="image/x-icon" href="{{ "/img/icon.ico" | absURL }}" />
+	<link href="{{ "/img/icon.ico" | absURL }}" rel="icon">
+	{{ with resources.Get "scss/main.scss" | toCSS | minify }}
+	<style>{{ .Content | safeCSS }}</style>
+	{{ end }}
+</head>
+<body>

@@ -1,0 +1,4 @@
+public/
+.DS_Store
+css/.sass-cache
+resources/_gen

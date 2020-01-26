@@ -1,0 +1,25 @@
+{{ partial "header" . }}
+    <article>
+        <header>
+            <h1>{{ .Title }}</h1>
+
+            <small>
+                Article posted on <time datetime="{{ .Lastmod.Format "2006-1-2T15:04:05" }}">{{ .Date.Format "2 Jan. 2006" }}</time> and takes {{ .ReadingTime }} min. to read.
+            </small>
+
+        </header>
+
+        {{ if isset .Params "toc" }}
+            {{ .TableOfContents }}
+        {{ end }}
+
+        {{ .Content }}
+    </article>
+
+    {{ if isset .Params "scripts" }}
+        {{ range .Params.scripts }}
+            <script src="{{ . }}" charset="utf-8"></script>
+        {{ end }}
+    {{ end }}
+
+{{ partial "footer" . }}

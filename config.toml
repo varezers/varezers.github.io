@@ -1,0 +1,33 @@
+baseurl         = "//varezers.org"
+title           = "Varezers"
+theme           = "Diogenes"
+canonifyurls    = true
+pygmentsStyle   = "monokai"
+rssLimit        = 50
+enableEmoji     = true
+[params]
+    theme_color = "#8A9A5B"
+    description     = "Reflections on adventures, philosophy, life and everything..."
+[permalinks]
+    post        = ":slug"
+    story       = ":slug"
+[sitemap]
+    priority    = 0.5
+    filename    = "sitemap.xml"
+
+[blackfriday]
+    fractions = false
+
+[privacy]
+    [privacy.disqus]
+        disable = true
+    [privacy.googleAnalytics]
+        disable = true
+    [privacy.instagram]
+        disable = true
+    [privacy.twitter]
+        disable = true
+    [privacy.vimeo]
+        disable = true
+    [privacy.youtube]
+        disable = true

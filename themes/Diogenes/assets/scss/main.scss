@@ -1,0 +1,41 @@
+/*! KISS */
+
+$color-main: #333;
+$font-main: 1.1rem;
+$max-width: 80ch;
+
+body {
+    color: $color-main;
+    font-size: $font-main;
+    line-height: 1.5;
+    margin: auto;
+    max-width: $max-width;
+    padding: 0 2%;
+}
+
+header,
+footer {
+    text-align: center;
+    margin: 3rem 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0.75em auto;
+}
+
+pre,
+table {
+    overflow: auto;
+}
+
+table {
+    border-spacing: 0;
+    width: 100%;
+
+    th,
+    td {
+        border-bottom: 0.1rem solid $color-main;
+    }
+}

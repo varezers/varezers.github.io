@@ -1,0 +1,14 @@
+{{ partial "header" . }}
+
+<main>
+	<header>
+		<h1>Showing everything {{ .Title }} related...</h1>
+	</header>
+	<article>
+		{{ range .Data.Pages }}
+		{{ .Render "list" }}
+		{{ end }}
+	</article>
+</main>
+
+{{ partial "footer" . }}
