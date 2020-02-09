@@ -25,7 +25,7 @@ These are consumables and their cheapness make no lasting difference. I find che
 
 Besides a large and a medium brush of both synthetic and natural bristles I find fan brush and a large "utility" brush really useful. I would recommend to own tiny natural bristle brush but painting knife does the job at precision a lot better.
 
-**Paint** - Choose only "artist" or "professional" labeled paints as cheaper ones have no "archivability" and will definitely brown much quicker. No need for all of them - they are supposed to be mixed. [If fourteen is enough for Bob Ross's favourites](//www.bobross.com/product-p/r135.htm) then it is enough for everybody. I have began with monochromatic paintings for which one colour, a white and a black are enough.
+**Paint** - Choose only "artist" or "professional" labeled paints as cheaper ones have no "archivability" and will definitely brown much quicker. Some non-artist paints I got are not solid enough, come with separated oil from pygment, apply in a very liquid manner. No need for all different colours - they are supposed to be mixed. [If fourteen is enough for Bob Ross's favourites](//www.bobross.com/product-p/r135.htm) then it is enough for everybody. I have began with monochromatic paintings for which one colour, a white and a black are enough.
 
 **How to read paint information** - usually tubes of paint will contain following on them:
 
