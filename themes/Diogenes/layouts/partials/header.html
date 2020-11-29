@@ -10,7 +10,9 @@
 	<meta name="description" content="{{ .Site.Params.Description }}">
 	{{ end }}
 	<meta name="robots" content="index,follow,notranslate,noarchive">
-	<link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+	{{ with .OutputFormats.Get "rss" -}}
+	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ end -}}
 	<link rel="icon" type="image/x-icon" href="{{ "/img/icon.ico" | absURL }}" />
 	<link href="{{ "/img/icon.ico" | absURL }}" rel="icon">
 	{{ with resources.Get "scss/main.scss" | toCSS | minify }}

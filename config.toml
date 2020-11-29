@@ -5,6 +5,8 @@ canonifyurls    = true
 pygmentsStyle   = "monokai"
 rssLimit        = 50
 enableEmoji     = true
+enableRSS		= true
+
 [params]
     theme_color = "#8A9A5B"
     description     = "Reflections on adventures, philosophy, life and everything..."
@@ -14,9 +16,22 @@ enableEmoji     = true
 [sitemap]
     priority    = 0.5
     filename    = "sitemap.xml"
-
 [blackfriday]
     fractions = false
+[markup.goldmark.renderer]
+	unsafe= true
+
+[outputs]
+home = ["HTML","RSS"]
+
+[mediaTypes]
+[mediaTypes."application/rss"]
+suffixes = ["xml"]
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
 
 [privacy]
     [privacy.disqus]
