@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Romania on Varezers</title>
-    <link>//varezers.org/tags/romania/</link>
-    <description>Recent content in Romania on Varezers</description>
+    <title>volunteering on Varezers</title>
+    <link>//varezers.org/tags/volunteering/</link>
+    <description>Recent content in volunteering on Varezers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 07 Jul 2014 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/romania/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jul 2014 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/volunteering/feed.xml" rel="self" type="application/rss" />
     <item>
       <title>European Voluntary Service in Romania - a year of retrospect</title>
       <link>//varezers.org/evs-in-romania/</link>

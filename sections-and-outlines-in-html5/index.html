@@ -29,20 +29,12 @@
 
         
 
-        
-
-<p>Mozilla provides <a href="//developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">by far the best HTML5 introduction guide</a> available on the net. Here I will outline tl;dr and provide example of «The Holy Grail» layout.</p>
-
+        <p>Mozilla provides <a href="//developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">by far the best HTML5 introduction guide</a> available on the net. Here I will outline tl;dr and provide example of «The Holy Grail» layout.</p>
 <h2 id="address">Address</h2>
-
 <p>The address element represents the contact information for its nearest <code>article</code> or <code>body</code> element ancestor.</p>
-
 <h2 id="article">Article</h2>
-
-<p><em>&ldquo;The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content.&rdquo;</em> (<a href="https://www.w3.org/TR/html5/dom.html#element-dfn-categories">source</a>).</p>
-
+<p><em>&ldquo;The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content.&quot;</em> (<a href="https://www.w3.org/TR/html5/dom.html#element-dfn-categories">source</a>).</p>
 <p><code>Article</code>s should potentially have child headings (<code>h1-h6</code> element) and <code>section</code>ed content if necessary.</p>
-
 <p>This is a semantically correct example with user submitted comments inside <code>article</code> elements wrapped in <code>section</code>,
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">    &lt;<span style="color:#f92672">article</span> <span style="color:#a6e22e">itemscope</span> <span style="color:#a6e22e">itemtype</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;http://schema.org/BlogPosting&#34;</span>&gt;
      &lt;<span style="color:#f92672">header</span>&gt;
@@ -80,64 +72,40 @@
      &lt;/<span style="color:#f92672">article</span>&gt;
     &lt;/<span style="color:#f92672">section</span>&gt;
     &lt;/<span style="color:#f92672">article</span>&gt;</code></pre></div></p>
-
 <p>but it can be as simple as</p>
-
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">    &lt;<span style="color:#f92672">article</span>&gt;
         &lt;<span style="color:#f92672">h1</span>&gt;Main outline&lt;/<span style="color:#f92672">h1</span>&gt;
         &lt;<span style="color:#f92672">p</span>&gt;Lorem ipsum dolor sit amet&lt;/<span style="color:#f92672">p</span>&gt;
     &lt;/<span style="color:#f92672">article</span>&gt;</code></pre></div>
-
 <h2 id="aside">Aside</h2>
-
 <p>Put it simply, <code>aside</code> represents stuff related to content around it.</p>
-
 <ul>
 <li><code>aside</code> inside an <code>article</code> is directly related to <code>article</code> content;</li>
 <li><code>aside</code> outside of <code>article</code> but inside of <code>main</code> is directly related to <code>main</code> content, but not necessarily to <code>article</code></li>
 <li>and so on</li>
 </ul>
-
 <h2 id="h1-h6">h1-h6</h2>
-
-<p><em>&ldquo;These elements represent headings for their sections.&rdquo;</em> They should not be used as purely stylistic elements, but as a guides to its respective sections. Defining subheading before heading is considered a bad practice and should not be done.</p>
-
+<p><em>&ldquo;These elements represent headings for their sections.&quot;</em> They should not be used as purely stylistic elements, but as a guides to its respective sections. Defining subheading before heading is considered a bad practice and should not be done.</p>
 <h2 id="footer">Footer</h2>
-
-<p><em>&ldquo;The footer element represents a footer for its nearest ancestor sectioning content or sectioning root element. A footer typically contains information about its section such as who wrote it, links to related documents, copyright data, and the like.&rdquo;</em>. It can be a footer for an article or the whole document. Note that contact information may reside in <code>footer</code>, but must be contained inside <code>address</code> element.</p>
-
+<p><em>&ldquo;The footer element represents a footer for its nearest ancestor sectioning content or sectioning root element. A footer typically contains information about its section such as who wrote it, links to related documents, copyright data, and the like.&quot;</em>. It can be a footer for an article or the whole document. Note that contact information may reside in <code>footer</code>, but must be contained inside <code>address</code> element.</p>
 <h2 id="header">Header</h2>
-
-<p><em>&ldquo;The header element represents introductory content for its nearest ancestor sectioning content or sectioning root element.&rdquo;</em> It usually contains section heading and other aids, but not necessarily. In case of absence of other semantic aids <code>header</code> can be omitted. But it is not <code>section</code>ing element and shouldn&rsquo;t be used as such.</p>
-
+<p><em>&ldquo;The header element represents introductory content for its nearest ancestor sectioning content or sectioning root element.&quot;</em> It usually contains section heading and other aids, but not necessarily. In case of absence of other semantic aids <code>header</code> can be omitted. But it is not <code>section</code>ing element and shouldn&rsquo;t be used as such.</p>
 <h2 id="div">Div</h2>
-
 <p>Good old <code>div</code>isions are semantically inert elements. They describe nothing about content and serve purely as a hook for styling the document. There is nothing more to it.</p>
-
 <h2 id="main">Main</h2>
-
-<p><em>&ldquo;The <code>main</code> element represents the main content section of the <code>body</code> of a document or application. The main content section consists of content that is directly related to or expands upon the central topic of a document or central functionality of an application.&rdquo;</em> <code>Main</code> is not a sectioning element, but should always be only one and should never be  inside a <code>section</code> or an <code>article</code>.</p>
-
+<p><em>&ldquo;The <code>main</code> element represents the main content section of the <code>body</code> of a document or application. The main content section consists of content that is directly related to or expands upon the central topic of a document or central functionality of an application.&quot;</em> <code>Main</code> is not a sectioning element, but should always be only one and should never be  inside a <code>section</code> or an <code>article</code>.</p>
 <h2 id="nav">Nav</h2>
-
-<p><em>&ldquo;The nav element represents a section of a page that links to other pages or to parts within the page: a section with navigation links.&rdquo;</em> <code>Nav</code> can be used twice - one for main navigation around the site and a second one for content itself.</p>
-
+<p><em>&ldquo;The nav element represents a section of a page that links to other pages or to parts within the page: a section with navigation links.&quot;</em> <code>Nav</code> can be used twice - one for main navigation around the site and a second one for content itself.</p>
 <h2 id="section">Section</h2>
-
-<p><code>&lt;section&gt;</code> is used to define different independent parts of website content. It is defined as <em>&ldquo;The section element represents a generic document or application section… The section element is not a generic container element. &ldquo;</em>. Assistive technologies and web crawlers use this technology to make sense of the document. According to <a href="//www.w3.org/TR/html5/sections.html">w3 recommendation</a> &ldquo;<em>the theme of each <code>section</code> should be identified, typically by including a heading (<code>h1-h6</code> element) as a child of the section element.</em>&ldquo;</p>
-
+<p><code>&lt;section&gt;</code> is used to define different independent parts of website content. It is defined as <em>&ldquo;The section element represents a generic document or application section… The section element is not a generic container element. &ldquo;</em>. Assistive technologies and web crawlers use this technology to make sense of the document. According to <a href="//www.w3.org/TR/html5/sections.html">w3 recommendation</a> &ldquo;<em>the theme of each <code>section</code> should be identified, typically by including a heading (<code>h1-h6</code> element) as a child of the section element.</em>&rdquo;</p>
 <p>More interesting stuff about section can be found in <a href="//www.smashingmagazine.com/2013/01/the-importance-of-sections/">&ldquo;The Importance Of HTML5 Sectioning Elements&rdquo; - The Smashing Magazine</a></p>
-
 <h2 id="notes-on-some-other-elements">Notes on some other elements</h2>
-
 <ul>
 <li><code>&lt;!DOCTYPE HTML&gt;</code> - doesn&rsquo;t need more unnecessary complication;</li>
 <li><code>&lt;style&gt;</code> and <code>&lt;script&gt;</code> do not need <code>type</code> attribute, since they all expect appropriate content anyway;</li>
 <li><code>&lt;meta type=&quot;robots&quot; content=&quot;all&quot;&gt;</code> is a shorthand for <code>index, follow</code>;</li>
 </ul>
-
 <h2 id="the-holy-grail-layout">The Holy Grail layout</h2>
-
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">    <span style="color:#75715e">&lt;!DOCTYPE HTML&gt;</span>
     &lt;<span style="color:#f92672">html</span>&gt;
      &lt;<span style="color:#f92672">head</span>&gt;
