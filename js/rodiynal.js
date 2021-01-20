@@ -13,7 +13,6 @@
  * Date: 2019-02-20
  */
 
-
 /** calculate rodinal from needed volume */
 function calc_rodiynal($amount){
 

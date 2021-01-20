@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//varezers.org/post/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>//varezers.org/tags/recipes/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>//varezers.org/tags/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>//varezers.org/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>//varezers.org/veganuaris/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>//varezers.org/tags/arts/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
@@ -15,25 +45,7 @@
   </url>
   
   <url>
-    <loc>//varezers.org/post/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>//varezers.org/tags/synopsis/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>//varezers.org/tags/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>//varezers.org/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url>
