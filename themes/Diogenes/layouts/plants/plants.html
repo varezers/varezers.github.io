@@ -1,0 +1,9 @@
+{{ partial "header" . }}
+{{ partial "welcome-plants" . }}
+<main>
+  {{ $posts := where .Site.Pages "Params.type" "plants" }}
+  {{ range $posts }}
+    {{ .Render "plant" }}
+  {{ end }}
+</main>
+{{ partial "footer" . }}

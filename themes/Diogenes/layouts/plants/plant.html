@@ -1,0 +1,13 @@
+<article>
+  <header>
+    <h2>{{ .Param "name_latin" }}</h2>
+    {{ if isset .Params "name" }}
+      <h3>{{ .Param "name" }}</h3>
+    {{ end }}
+  </header>
+
+  {{ .Content }}
+
+</article>
+
+<hr>

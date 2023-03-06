@@ -2,7 +2,7 @@
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
 name = "Diogenes"
-license = "WTFPLv2"
+license = "WTFPL"
 licenselink = ""
 homepage = ""
 tags = ["", ""]

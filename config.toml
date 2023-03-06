@@ -5,33 +5,34 @@ canonifyurls    = true
 pygmentsStyle   = "monokai"
 rssLimit        = 50
 enableEmoji     = true
-enableRSS		= true
+enableRSS		    = true
 
 [params]
     theme_color = "#8A9A5B"
-    description     = "Reflections on adventures, philosophy, life and everything..."
+    description = "Reflections on adventures, philosophy, life and everything..."
 [permalinks]
+    plants       = "plants"
     post        = ":slug"
     story       = ":slug"
 [sitemap]
     priority    = 0.5
     filename    = "sitemap.xml"
 [blackfriday]
-    fractions = false
+    fractions   = false
 [markup.goldmark.renderer]
-	unsafe= true
+	unsafe        = true
 
 [outputs]
-home = ["HTML","RSS"]
+home            = ["HTML","RSS"]
 
 [mediaTypes]
 [mediaTypes."application/rss"]
-suffixes = ["xml"]
+suffixes        = ["xml"]
 
 [outputFormats]
 [outputFormats.RSS]
-mediatype = "application/rss"
-baseName = "feed"
+mediatype       = "application/rss"
+baseName        = "feed"
 
 [privacy]
     [privacy.disqus]

@@ -1,9 +1,5 @@
 {{ partial "header" . }}
-{{ partial "welcome" . }}
 <section>
-	<p>Something seems missing. Try the archive instead</p>
-	{{ range first 10 .Data.Pages }}
-	{{ .Render "list" }}
-	{{ end }}
+	<p>404 - Something seems missing. Go to <a href="/">index</a> or enjoy this plant</p>
 </section>
 {{ partial "footer" . }}
