@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Test driven development</title>
+	
+	<meta name="description" content="">
+	
+	<meta name="robots" content="index,follow,notranslate,noarchive">
+  <link rel="alternative" type="application/rss+xml" href="//varezers.org/feed.xml" title="Varezers" />
+	<link rel="icon" type="image/x-icon" href="//varezers.org/img/icon.ico" />
+	<link href="//varezers.org/img/icon.ico" rel="icon">
+	
+	<style>/*!KISS*/body{color:#333;font-size:1.1rem;line-height:1.5;margin:auto;max-width:80ch;padding:0 2%}header,footer{text-align:center;margin:3rem 0}img{display:block;max-height:100vh;max-width:100%;margin:.75em auto}pre,table{overflow:auto}table{border-spacing:0;width:100%}table th,table td{border-bottom:.1rem solid #333}</style>
+	
+</head>
+<body>
+
+<article>
+  <header>
+    <h1>Test driven development</h1>
+
+    <small>
+      Article posted on <time datetime="2021-10-15T00:00:00">15 Oct. 2021</time> and takes 4 min. to read.
+    </small>
+
+  </header>
+
+  
+    <nav id="TableOfContents"></nav>
+  
+
+  <h1 id="what-is-tdd">What is TDD</h1>
+<p>Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed.</p>
+<h1 id="benefits-of-tdd">Benefits of TDD</h1>
+<ul>
+<li>Better Code Quality - TDD encourages
+<ul>
+<li>DRY and KISS principle - code which can be unit tested. Testable outcomes are simple and easy to understand;</li>
+<li>Maintainable code - it takes less effort to focus on smaller, managable chunks of code;</li>
+<li>Easier refactoring;</li>
+</ul>
+</li>
+<li>Prevent bugs - writing a unit test may:
+<ul>
+<li>uncover edge cases missed in planning requirements;</li>
+<li>forces code collaborators to not break previously agreed requirements of a code;</li>
+<li>forces to contribute new tests when new requirements are added over time;</li>
+</ul>
+</li>
+<li>Documentation - unit tests are a documentation of how function is supposed to work and output. Due to contsant usage unit tests become an easy to maintain documentations for expected behaviour. Thus it serves as a blueprint for development;</li>
+<li>Faster acclimatization for new devs;</li>
+<li>Faster Code Reviews - much easier to spot antipatterns in a readable code;</li>
+<li>Context switching - interruptions may take up to 20 minutes to re-focus developer time to tend to bug in production. Budgeting time for TDD will prevent bugs and additional context switching;</li>
+<li>Unit tests as a bug report - whenever a bug has entered code unit test will fail in predictable ways and produce high-quality bug report;</li>
+<li>Reduce costs of customer service;</li>
+<li>Reduce customer abandonment;</li>
+<li>Increase usr growth;</li>
+</ul>
+<p><a href="//medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412">TDD saves 40%-80% bugs</a>.</p>
+<blockquote>
+<p>Due to exponentially escalating costs of rework, meta-work (work about work), responsibility hand-offs, interruptions, and eventually customer support, bug triage, and maintenance, fixing a production bug may cost 100x more than fixing a bug at design time, and over 15x more than fixing a bug at implementation time.</p>
+</blockquote>
+<h1 id="supposed-drawbacks-of-tdd">Supposed drawbacks of TDD</h1>
+<ul>
+<li>Speed:
+<ul>
+<li>it is expected to spend more time planning and writing tests and fail cases for a code initially&hellip;</li>
+<li>..even more so it is expected to take time to decouple, document and simplify existing logic&hellip;</li>
+<li>..but whence stage for simple, understandable and documented code is set - maintenance and new feature addition takes up to 30% less time;</li>
+</ul>
+</li>
+<li>Difficult to learn - learning TDD requires team to think differently and budget time for planning better;</li>
+<li>Large volatile projects may become hard tom maintain - whence logic has to be completely redone so will the unit tests need to conform to new requirements;</li>
+<li>Unit tests take long to run;</li>
+</ul>
+<h1 id="how-to-tdd">How to TDD</h1>
+<ol>
+<li>Write a good unit test - a unit test should take into account all input, output and possible exceptions of a tested code.
+<ul>
+<li>AAA principle:
+<ul>
+<li>Arrange - variables, fields, properties, exceptions;</li>
+<li>Act - call a method with different input variations;</li>
+<li>Assert - verify result and expected exceptions;</li>
+</ul>
+</li>
+<li>Test limitations:
+<ul>
+<li>What happens when input/output is different type (bool/int/string)?</li>
+<li>What happens when expected output is an emoji?</li>
+<li>What happens when expected output is 3000 entries?</li>
+<li>What happens when method is interrupted?</li>
+<li>What happens when method times out?</li>
+<li>What must happen for method to run out of memory?</li>
+</ul>
+</li>
+<li>Tests should be independent:
+<ul>
+<li>Tested function should not involve other tested functions;</li>
+<li>Unit tests should not depend on previous test states (setup/teardown discipline);</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Run the accepted tests - expect a failure;</li>
+<li>(Re) Write function - make changes for test to pass;</li>
+<li>Back to point #2</li>
+</ol>
+<h1 id="how-not-to-tdd">How not to TDD</h1>
+<ul>
+<li>Mocking - Maybe a functional test would be a better fit.</li>
+<li>Fixing unit tests without refactoring code - just throwing new expected exceptions is not a way to do it;</li>
+<li>assert.isTrue - heavy relying on boolean checking is a sign of useless unit test;</li>
+<li>Writing tests only for positive scenarios - most bugs come from unhandled exceptions and negative cases;</li>
+<li>Too complicated unit tests - too complicated unittests triggering different functions based on array key is not a way to go;</li>
+</ul>
+<pre tabindex="0"><code>const tests = [
+	&#39;applyFee&#39; = [
+		&#39;input&#39; = 11,
+		&#39;expectedOutput&#39; = 233
+		&#39;error&#39; = &#39;Fee has not been applied&#39;
+	]
+]
+</code></pre><h1 id="tdd-examples">TDD Examples</h1>
+
+</article>
+
+
+  
+
+
+		<footer>
+			All is opinion
+
+			<br>
+
+			<a href="//varezers.org/">v</a>
+		</footer>
+	</body>
+</html>
+

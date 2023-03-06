@@ -5,7 +5,34 @@
     <link>//varezers.org/tags/</link>
     <description>Recent content in Tags on Varezers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/feed.xml" rel="self" type="application/rss" />
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/feed.xml" rel="self" type="application/rss" />
+    <item>
+      <title>development</title>
+      <link>//varezers.org/tags/development/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synopsis</title>
+      <link>//varezers.org/tags/synopsis/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/tags/synopsis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>//varezers.org/tags/tools/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/tags/tools/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>recipes</title>
       <link>//varezers.org/tags/recipes/</link>
@@ -25,29 +52,11 @@
     </item>
     
     <item>
-      <title>synopsis</title>
-      <link>//varezers.org/tags/synopsis/</link>
-      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>//varezers.org/tags/synopsis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>photography</title>
       <link>//varezers.org/tags/photography/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>//varezers.org/tags/photography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tools</title>
-      <link>//varezers.org/tags/tools/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>//varezers.org/tags/tools/</guid>
       <description></description>
     </item>
     

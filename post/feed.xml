@@ -5,7 +5,31 @@
     <link>//varezers.org/post/</link>
     <description>Recent content in Posts on Varezers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/post/feed.xml" rel="self" type="application/rss" />
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/post/feed.xml" rel="self" type="application/rss" />
+    <item>
+      <title>Test driven development</title>
+      <link>//varezers.org/test-driven-development/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/test-driven-development/</guid>
+      <description>What is TDD Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed.
+Benefits of TDD Better Code Quality - TDD encourages DRY and KISS principle - code which can be unit tested. Testable outcomes are simple and easy to understand; Maintainable code - it takes less effort to focus on smaller, managable chunks of code; Easier refactoring; Prevent bugs - writing a unit test may: uncover edge cases missed in planning requirements; forces code collaborators to not break previously agreed requirements of a code; forces to contribute new tests when new requirements are added over time; Documentation - unit tests are a documentation of how function is supposed to work and output.</description>
+    </item>
+    
+    <item>
+      <title>Electronics</title>
+      <link>//varezers.org/electronics/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/electronics/</guid>
+      <description>Glossary Alternating current (AC) - current that changes direction, your typical power outlet;
+Direct Current (DC) - one way current used in most electronics;
+Volts (v) - literally &amp;ldquo;pressure&amp;rdquo; of power;
+Current (amperage) (I) - literally &amp;ldquo;amount&amp;rdquo; of power;
+Resistance (Ohm) (r) - the relation property between voltage and current;
+Components Resistor a piece of tubular material reisting n ohms. Resistance is measured in colour coded system of multiplied values and tolerance (accuracy).</description>
+    </item>
+    
     <item>
       <title>Veganuāris</title>
       <link>//varezers.org/veganuaris/</link>
@@ -14,7 +38,7 @@
       <guid>//varezers.org/veganuaris/</guid>
       <description>Izgriezumi no neapedzemeslodi.lv vegānu izaicinājuma
 Vieglākais veids, kā uzņemt pilnvērtīgu uzturu, ir ievērojot &amp;ldquo;šķīvja principu&amp;rdquo;. Tas parāda, kādas produktu grupas jāiekļauj katrā maltītē.
-&amp;ldquo;Šķīvja princips&amp;rdquo; paredz, ka uzturā jāiekļauj:  Ogļhidrātus saturoši produkti – graudaugi (rīsi, griķi u.c.), kartupeļi, maize u.c. Īpaši vērtīgi ir pilngraudu produkti, jo tie nodrošina enerģiju ilgākam laikam, nerada tik lielas cukura svārstības asinīs kā rafinētie produkti, kā arī papildina uzturu ar vērtīgām šķiedrvielām, vitamīniem, minerālvielām. Proteīna jeb olbaltumvielu avoti – pākšaugi (lēcas, visa veida zirņi, pupiņas, tostarp sojas pupiņas un to produkti, piemēram, tofu, tempe, kā arī seitans, kas pagatavots no kviešu olbaltumvielas – glutēna jeb lipekļa).</description>
+&amp;ldquo;Šķīvja princips&amp;rdquo; paredz, ka uzturā jāiekļauj: Ogļhidrātus saturoši produkti – graudaugi (rīsi, griķi u.c.), kartupeļi, maize u.c. Īpaši vērtīgi ir pilngraudu produkti, jo tie nodrošina enerģiju ilgākam laikam, nerada tik lielas cukura svārstības asinīs kā rafinētie produkti, kā arī papildina uzturu ar vērtīgām šķiedrvielām, vitamīniem, minerālvielām. Proteīna jeb olbaltumvielu avoti – pākšaugi (lēcas, visa veida zirņi, pupiņas, tostarp sojas pupiņas un to produkti, piemēram, tofu, tempe, kā arī seitans, kas pagatavots no kviešu olbaltumvielas – glutēna jeb lipekļa).</description>
     </item>
     
     <item>
@@ -64,8 +88,9 @@ Planning It is too easy to over-plan and over-pack but much more important is to
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>//varezers.org/films/</guid>
-      <description>Science Fiction   Arrival (2016) by Denis Villeneuve - twelve extraterrestrial spacecraft appear at twelve different locations across the Earth;
-  Autómata (2014) by Gabe Ibáñez - In the late 2030s, solar flares irradiate the Earth, killing over 99% of the world&amp;rsquo;s population. The survivors gather in a network of safe cities and build primitive humanoid robots, called Pilgrims, to help rebuild and operate in the harsh environment;</description>
+      <description>Science Fiction Arrival (2016) by Denis Villeneuve - twelve extraterrestrial spacecraft appear at twelve different locations across the Earth;
+Autómata (2014) by Gabe Ibáñez - In the late 2030s, solar flares irradiate the Earth, killing over 99% of the world&amp;rsquo;s population. The survivors gather in a network of safe cities and build primitive humanoid robots, called Pilgrims, to help rebuild and operate in the harsh environment;
+Blade Runner (1982) by Ridley Scott - is an adaptation of the 1968 novel Do Androids Dream of Electric Sheep?</description>
     </item>
     
     <item>

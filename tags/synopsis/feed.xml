@@ -5,7 +5,21 @@
     <link>//varezers.org/tags/synopsis/</link>
     <description>Recent content in synopsis on Varezers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/synopsis/feed.xml" rel="self" type="application/rss" />
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/synopsis/feed.xml" rel="self" type="application/rss" />
+    <item>
+      <title>Electronics</title>
+      <link>//varezers.org/electronics/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/electronics/</guid>
+      <description>Glossary Alternating current (AC) - current that changes direction, your typical power outlet;
+Direct Current (DC) - one way current used in most electronics;
+Volts (v) - literally &amp;ldquo;pressure&amp;rdquo; of power;
+Current (amperage) (I) - literally &amp;ldquo;amount&amp;rdquo; of power;
+Resistance (Ohm) (r) - the relation property between voltage and current;
+Components Resistor a piece of tubular material reisting n ohms. Resistance is measured in colour coded system of multiplied values and tolerance (accuracy).</description>
+    </item>
+    
     <item>
       <title>Introduction to visual arts</title>
       <link>//varezers.org/painting/</link>
@@ -43,8 +57,9 @@ There is no &amp;ldquo;real&amp;rdquo; camera as they all do pretty much the sam
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>//varezers.org/films/</guid>
-      <description>Science Fiction   Arrival (2016) by Denis Villeneuve - twelve extraterrestrial spacecraft appear at twelve different locations across the Earth;
-  Autómata (2014) by Gabe Ibáñez - In the late 2030s, solar flares irradiate the Earth, killing over 99% of the world&amp;rsquo;s population. The survivors gather in a network of safe cities and build primitive humanoid robots, called Pilgrims, to help rebuild and operate in the harsh environment;</description>
+      <description>Science Fiction Arrival (2016) by Denis Villeneuve - twelve extraterrestrial spacecraft appear at twelve different locations across the Earth;
+Autómata (2014) by Gabe Ibáñez - In the late 2030s, solar flares irradiate the Earth, killing over 99% of the world&amp;rsquo;s population. The survivors gather in a network of safe cities and build primitive humanoid robots, called Pilgrims, to help rebuild and operate in the harsh environment;
+Blade Runner (1982) by Ridley Scott - is an adaptation of the 1968 novel Do Androids Dream of Electric Sheep?</description>
     </item>
     
     <item>

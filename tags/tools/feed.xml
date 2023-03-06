@@ -5,7 +5,21 @@
     <link>//varezers.org/tags/tools/</link>
     <description>Recent content in tools on Varezers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/tools/feed.xml" rel="self" type="application/rss" />
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/tools/feed.xml" rel="self" type="application/rss" />
+    <item>
+      <title>Electronics</title>
+      <link>//varezers.org/electronics/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/electronics/</guid>
+      <description>Glossary Alternating current (AC) - current that changes direction, your typical power outlet;
+Direct Current (DC) - one way current used in most electronics;
+Volts (v) - literally &amp;ldquo;pressure&amp;rdquo; of power;
+Current (amperage) (I) - literally &amp;ldquo;amount&amp;rdquo; of power;
+Resistance (Ohm) (r) - the relation property between voltage and current;
+Components Resistor a piece of tubular material reisting n ohms. Resistance is measured in colour coded system of multiplied values and tolerance (accuracy).</description>
+    </item>
+    
     <item>
       <title>Guide to homemade Rodinal, stop solution &amp; fixing agent for analog photography in hostile environments</title>
       <link>//varezers.org/rodiynal/</link>
