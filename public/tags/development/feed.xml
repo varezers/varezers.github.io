@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on Varezers</title>
+    <link>//varezers.org/tags/development/</link>
+    <description>Recent content in development on Varezers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/development/feed.xml" rel="self" type="application/rss" />
+    <item>
+      <title>Test driven development</title>
+      <link>//varezers.org/test-driven-development/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/test-driven-development/</guid>
+      <description>What is TDD Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed.
+Benefits of TDD Better Code Quality - TDD encourages DRY and KISS principle - code which can be unit tested. Testable outcomes are simple and easy to understand; Maintainable code - it takes less effort to focus on smaller, managable chunks of code; Easier refactoring; Prevent bugs - writing a unit test may: uncover edge cases missed in planning requirements; forces code collaborators to not break previously agreed requirements of a code; forces to contribute new tests when new requirements are added over time; Documentation - unit tests are a documentation of how function is supposed to work and output.</description>
+    </item>
+    
+  </channel>
+</rss>

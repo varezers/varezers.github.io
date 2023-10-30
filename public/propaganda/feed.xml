@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Propaganda on Varezers</title>
+    <link>//varezers.org/propaganda/</link>
+    <description>Recent content in Propaganda on Varezers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//varezers.org/propaganda/feed.xml" rel="self" type="application/rss" />
+    <item>
+      <title></title>
+      <link>//varezers.org/kaspars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/kaspars/</guid>
+      <description>Check out my social links!
+varezers.org instagram be real </description>
+    </item>
+    
+  </channel>
+</rss>

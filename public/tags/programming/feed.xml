@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on Varezers</title>
+    <link>//varezers.org/tags/programming/</link>
+    <description>Recent content in programming on Varezers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/programming/feed.xml" rel="self" type="application/rss" />
+    <item>
+      <title>Sections and outlines in HTML5</title>
+      <link>//varezers.org/sections-and-outlines-in-html5/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//varezers.org/sections-and-outlines-in-html5/</guid>
+      <description>Mozilla provides by far the best HTML5 introduction guide available on the net. Here I will outline tl;dr and provide example of «The Holy Grail» layout.
+Address The address element represents the contact information for its nearest article or body element ancestor.
+Article &amp;ldquo;The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication.</description>
+    </item>
+    
+  </channel>
+</rss>
