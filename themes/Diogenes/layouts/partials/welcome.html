@@ -1,10 +1,14 @@
 <header>
 	<h1>
-		Hi, I'm Kaspars - I love solving challanges and collecting skills!
+		{{ .Site.Params.Welcome_header }}
 	</h1>
 	<p>
-		<abbr title="previously frontend/wp developer, volunteer, and sysadmin ({{ ":flag_lv:,:flag_ro:,:flag_fi:,:flag_us:,:flag_ee:" | emojify }})">Currently</abbr> I am full-stack developer between {{ "Tartu :flag_ee: and Riga :flag_lv:" | emojify }}<br>
-		This website serves my interest and experience notes. I hope you find it interesting too!
+		<abbr title="previously frontend/wp developer, volunteer, and sysadmin ({{ ":flag_lv:,:flag_ro:,:flag_fi:,:flag_us:,:flag_ee:" | emojify }})">
+		Currently</abbr> I am full-stack developer between {{ "Tartu :flag_ee:" | emojify }} and {{ "Riga :flag_lv:" | emojify }}
+		<br>
+		You may find me volunteering as a foreman, cook and photographer in small festivals, sketching and painting, gardening, creating banger photos or just hanging out in a forest {{ emojify ":camping:"}}
+		<br>
+		This website serves my interest and experience notes. Enjoy or go away!
 	</p>
 	<p>
 		Find me on

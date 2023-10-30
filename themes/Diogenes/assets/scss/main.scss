@@ -40,3 +40,22 @@ table {
 		border-bottom: 0.1rem solid $color-main;
 	}
 }
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: $color-main;
+        color: #fbf1c7;
+    }
+
+	a {
+		color: #b8bb26;
+
+		&:hover {
+			color: #d79921;
+		};
+
+		&:visited {
+			color: #cc241d;
+		}
+	}
+}

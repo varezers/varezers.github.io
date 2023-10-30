@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ .Params.language }}">
 	<head>
-		<meta name="robots" content="noarchive" />
 		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, height=device-height, user-scalable=no, initial-scale=1.0"/>
-		<title>{{ .Title }}</title>
+		<meta name="robots" content="index,follow,notranslate,noarchive">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>{{ .Page.title }} {{ .Title }}</title>
 		<meta name="description" content="{{ .Description }}">
 		<link rel="canonical" href="{{ .Permalink }}">
 		<link rel="icon" type="image/x-icon" href="{{ .Site.BaseURL }}/img/icon.ico" />

@@ -10,7 +10,7 @@
 	<meta name="description" content="{{ .Site.Params.Description }}">
 	{{ end }}
 	<meta name="robots" content="index,follow,notranslate,noarchive">
-  <link rel="alternative" type="application/rss+xml" href="{{ .Site.BaseURL }}/feed.xml" title="{{ .Site.Title }}" />
+  	<link rel="alternative" type="application/rss+xml" href="{{ .Site.BaseURL }}/feed.xml" title="{{ .Site.Title }}" />
 	<link rel="icon" type="image/x-icon" href="{{ "/img/icon.ico" | absURL }}" />
 	<link href="{{ "/img/icon.ico" | absURL }}" rel="icon">
 	{{ with resources.Get "scss/main.scss" | toCSS | minify }}

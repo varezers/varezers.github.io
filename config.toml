@@ -5,15 +5,15 @@ canonifyurls    = true
 pygmentsStyle   = "monokai"
 rssLimit        = 50
 enableEmoji     = true
-enableRSS		    = true
+enableRSS		= true
 
 [params]
     theme_color = "#8A9A5B"
     description = "Reflections on adventures, philosophy, life and everything..."
+    welcome_header = "Hi, I'm Kaspars - I love exploring this beautiful world, solving challanges and collecting skills!"
 [permalinks]
-    plants       = "plants"
-    post        = ":slug"
-    story       = ":slug"
+    post         = ":slug"
+    propaganda   = ":slug"
 [sitemap]
     priority    = 0.5
     filename    = "sitemap.xml"

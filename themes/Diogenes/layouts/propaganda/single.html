@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="keywords" content="Kaspars Praulins, Kaspars, Varezers">
+        <meta name="description" content="150 words">
+        <meta name="subject" content="Varewzer's personal website">
+        <meta name="robots" content="index,follow, notranslate, noarchive">
+        <meta name="author" content="Kaspars, varezers@gmail.com">
+        <meta name="url" content="//varezers.org">
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="medium" content="blog">
+
+        <link rel="alternative" type="application/rss+xml" href="{{ .Site.BaseURL }}/feed.xml" title="{{ .Site.Title }}" />
+        <link rel="icon" type="image/x-icon" href="{{ "/img/icon.ico" | absURL }}" />
+        <link href="{{ "/img/icon.ico" | absURL }}" rel="icon">
+
+        <meta name='og:title' content="Kaspars Praulins">
+        <meta name="og:type" content="article">
+        <meta name="og:url" content="{{ .Site.BaseURL }}/kaspars/">
+        <meta name="og:image" content="{{ .Site.BaseURL }}/avatar.jpg">
+        <meta name="og:site_name" content="Varzers">
+        <meta name="og:description" content="{{ .Description }}">
+
+        {{ with resources.Get "scss/main.scss" | toCSS | minify }}
+        <style>
+            {{ .Content | safeCSS }}
+
+            #propaganda {
+                h1 {
+                    font-size: 125%
+                }
+
+                #avatar {
+                    min-width: 250px;
+                    width: 30%;
+                }
+
+                a {
+                    border: 2px solid #b8bb26;
+                    display: block;
+                    margin: 1rem 0;
+                    padding: 1rem;
+                    text-align: center;
+                    text-decoration: none;
+                    transition-duration: 666ms;
+                    width: auto;
+
+                    &:hover {
+                        border-color: #d79921;
+                    };
+
+                    &:visited {
+                        border-color: #cc241d;
+                    }
+                }
+
+                p {
+                    text-align: center;
+                }
+
+                @media (prefers-color-scheme: dark) {
+                    a {
+                        background-color: #282828;
+
+                        &:hover {
+                            background-color: #665c54;
+                        }
+                    }
+                }
+            }
+        </style>
+        {{ end }}
+
+    </head>
+</html>
+<body id="propaganda">
+    <article>
+        <header>
+            <img src="{{ "/img/avatar.png" }}" id="avatar">
+            <h1>
+                {{ .Site.Params.Welcome_header }}
+            </h1>
+        </header>
+
+        {{ .Content }}
+
+    </article>
+</body>
+</html>
