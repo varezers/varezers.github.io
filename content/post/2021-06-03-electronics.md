@@ -5,7 +5,8 @@ description = "Practical guide on how to avoid autoelectricution"
 slug        = "electronics"
 type        = "post"
 tags        = ["tools", "synopsis"]
-toc         = "true"
+toc         = "false"
+draft       = "true"
 +++
 
 # Glossary

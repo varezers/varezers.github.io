@@ -8,31 +8,33 @@ enableEmoji     = true
 enableRSS		= true
 
 [params]
-    theme_color = "#8A9A5B"
-    description = "Reflections on adventures, philosophy, life and everything..."
-    welcome_header = "Hi, I'm Kaspars - I love exploring this beautiful world, solving challanges and collecting skills!"
+    description = "Reflections on art, adventures, philosophy, life and everything..."
+    welcome_header = "Kaspars. > Explorer, problem solver, and skill collector."
 [permalinks]
     post         = ":slug"
     propaganda   = ":slug"
 [sitemap]
     priority    = 0.5
     filename    = "sitemap.xml"
-[blackfriday]
-    fractions   = false
-[markup.goldmark.renderer]
-	unsafe        = true
+[markup]
+  [markup.goldmark.extensions]
+    definitionList = true
+    table = true
+    typographer = false
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [outputs]
-home            = ["HTML","RSS"]
+    home = ["HTML","RSS"]
 
 [mediaTypes]
-[mediaTypes."application/rss"]
-suffixes        = ["xml"]
+    [mediaTypes."application/rss"]
+        suffixes        = ["xml"]
 
 [outputFormats]
-[outputFormats.RSS]
-mediatype       = "application/rss"
-baseName        = "feed"
+    [outputFormats.RSS]
+        mediatype       = "application/rss"
+        baseName        = "feed"
 
 [privacy]
     [privacy.disqus]
@@ -41,7 +43,7 @@ baseName        = "feed"
         disable = true
     [privacy.instagram]
         disable = true
-    [privacy.twitter]
+    [privacy.x]
         disable = true
     [privacy.vimeo]
         disable = true
