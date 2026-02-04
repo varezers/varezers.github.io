@@ -2,39 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//varezers.org/tags/development/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <loc>//varezers.org/npc-energy/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
     <loc>//varezers.org/post/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//varezers.org/tags/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//varezers.org/test-driven-development/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
     <loc>//varezers.org/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//varezers.org/electronics/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//varezers.org/tags/synopsis/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//varezers.org/tags/tools/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
     <loc>//varezers.org/tags/recipes/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//varezers.org/tags/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
@@ -50,11 +34,19 @@
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
+    <loc>//varezers.org/tags/synopsis/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url><url>
     <loc>//varezers.org/rodiynal/</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
     <loc>//varezers.org/tags/photography/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//varezers.org/tags/tools/</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>

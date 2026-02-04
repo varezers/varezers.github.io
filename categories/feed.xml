@@ -4,7 +4,8 @@
     <title>Categories on Varezers</title>
     <link>//varezers.org/categories/</link>
     <description>Recent content in Categories on Varezers</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//varezers.org/categories/feed.xml" rel="self" type="application/rss" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//varezers.org/categories/feed.xml" rel="self" type="application/rss" />
   </channel>
 </rss>

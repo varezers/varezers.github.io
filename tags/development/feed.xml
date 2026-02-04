@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>development on Varezers</title>
-    <link>//varezers.org/tags/development/</link>
-    <description>Recent content in development on Varezers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Development on Varezers</title>
+    <link>//localhost:1313/tags/development/</link>
+    <description>Recent content in Development on Varezers</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/development/feed.xml" rel="self" type="application/rss" />
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/development/feed.xml" rel="self" type="application/rss" />
     <item>
       <title>Test driven development</title>
-      <link>//varezers.org/test-driven-development/</link>
+      <link>//localhost:1313/test-driven-development/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>//varezers.org/test-driven-development/</guid>
-      <description>What is TDD Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed.
-Benefits of TDD Better Code Quality - TDD encourages DRY and KISS principle - code which can be unit tested. Testable outcomes are simple and easy to understand; Maintainable code - it takes less effort to focus on smaller, managable chunks of code; Easier refactoring; Prevent bugs - writing a unit test may: uncover edge cases missed in planning requirements; forces code collaborators to not break previously agreed requirements of a code; forces to contribute new tests when new requirements are added over time; Documentation - unit tests are a documentation of how function is supposed to work and output.</description>
+      <guid>//localhost:1313/test-driven-development/</guid>
+      <description>&lt;h1 id=&#34;what-is-tdd&#34;&gt;What is TDD&lt;/h1&gt;&#xA;&lt;p&gt;Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed.&lt;/p&gt;&#xA;&lt;h1 id=&#34;benefits-of-tdd&#34;&gt;Benefits of TDD&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Better Code Quality - TDD encourages&#xA;&lt;ul&gt;&#xA;&lt;li&gt;DRY and KISS principle - code which can be unit tested. Testable outcomes are simple and easy to understand;&lt;/li&gt;&#xA;&lt;li&gt;Maintainable code - it takes less effort to focus on smaller, managable chunks of code;&lt;/li&gt;&#xA;&lt;li&gt;Easier refactoring;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Prevent bugs - writing a unit test may:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;uncover edge cases missed in planning requirements;&lt;/li&gt;&#xA;&lt;li&gt;forces code collaborators to not break previously agreed requirements of a code;&lt;/li&gt;&#xA;&lt;li&gt;forces to contribute new tests when new requirements are added over time;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Documentation - unit tests are a documentation of how function is supposed to work and output. Due to contsant usage unit tests become an easy to maintain documentations for expected behaviour. Thus it serves as a blueprint for development;&lt;/li&gt;&#xA;&lt;li&gt;Faster acclimatization for new devs;&lt;/li&gt;&#xA;&lt;li&gt;Faster Code Reviews - much easier to spot antipatterns in a readable code;&lt;/li&gt;&#xA;&lt;li&gt;Context switching - interruptions may take up to 20 minutes to re-focus developer time to tend to bug in production. Budgeting time for TDD will prevent bugs and additional context switching;&lt;/li&gt;&#xA;&lt;li&gt;Unit tests as a bug report - whenever a bug has entered code unit test will fail in predictable ways and produce high-quality bug report;&lt;/li&gt;&#xA;&lt;li&gt;Reduce costs of customer service;&lt;/li&gt;&#xA;&lt;li&gt;Reduce customer abandonment;&lt;/li&gt;&#xA;&lt;li&gt;Increase usr growth;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412&#34;&gt;TDD saves 40%-80% bugs&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

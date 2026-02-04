@@ -4,17 +4,15 @@
     <title>Propaganda on Varezers</title>
     <link>//varezers.org/propaganda/</link>
     <description>Recent content in Propaganda on Varezers</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//varezers.org/propaganda/feed.xml" rel="self" type="application/rss" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//varezers.org/propaganda/feed.xml" rel="self" type="application/rss" />
     <item>
       <title></title>
       <link>//varezers.org/kaspars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//varezers.org/kaspars/</guid>
-      <description>Check out my social links!
-varezers.org instagram be real </description>
+      <description>&lt;p&gt;Check out my social links!&lt;/p&gt;&#xA;&lt;a href=&#34;//varezers.org&#34;&gt;varezers.org&lt;/a&gt;&#xA;&lt;a href=&#34;//instagram.com/varezers&#34;&gt;instagram&lt;/a&gt;&#xA;&lt;a href=&#34;//bere.al/varezers&#34;&gt;be real&lt;/a&gt;</description>
     </item>
-    
   </channel>
 </rss>

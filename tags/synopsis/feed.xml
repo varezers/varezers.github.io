@@ -1,88 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>synopsis on Varezers</title>
+    <title>Synopsis on Varezers</title>
     <link>//varezers.org/tags/synopsis/</link>
-    <description>Recent content in synopsis on Varezers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Synopsis on Varezers</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/synopsis/feed.xml" rel="self" type="application/rss" />
-    <item>
-      <title>Electronics</title>
-      <link>//varezers.org/electronics/</link>
-      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>//varezers.org/electronics/</guid>
-      <description>Glossary Alternating current (AC) - current that changes direction, your typical power outlet;
-Direct Current (DC) - one way current used in most electronics;
-Volts (v) - literally &amp;ldquo;pressure&amp;rdquo; of power;
-Current (amperage) (I) - literally &amp;ldquo;amount&amp;rdquo; of power;
-Resistance (Ohm) (r) - the relation property between voltage and current;
-Components Resistor a piece of tubular material reisting n ohms. Resistance is measured in colour coded system of multiplied values and tolerance (accuracy).</description>
-    </item>
-    
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//varezers.org/tags/synopsis/feed.xml" rel="self" type="application/rss" />
     <item>
       <title>Introduction to visual arts</title>
       <link>//varezers.org/painting/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>//varezers.org/painting/</guid>
-      <description>Congratulations on reaching top of Maslov&amp;rsquo;s hierarchy of needs, even if you decided to skip a few layers. But to be fair to painting - it is extremely therapeutic, interesting and one more creative way to annoy people with some unnecessarily personal gifts.
-The hobby in itself might seem forbiddingly expensive but in reality a lot of fun can be squeezed out of the tube of paint.
-Tools &amp;amp; consumables Surface - depends on viscosity of a medium.</description>
+      <description>&lt;p&gt;Congratulations on reaching top of Maslov&#39;s hierarchy of needs, even if you decided to skip a few layers. But to be fair to painting - it is extremely therapeutic, interesting and one more creative way to annoy people with some unnecessarily personal gifts.&lt;/p&gt;&#xA;&lt;p&gt;The hobby in itself might seem forbiddingly expensive but in reality a lot of fun can be squeezed out of the tube of paint.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tools--consumables&#34;&gt;Tools &amp;amp; consumables&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Surface&lt;/strong&gt; - depends on viscosity of a medium. Generally canvas or panels for oil and acrylics, different weight and thickness paper for everything else.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Guide to homemade Rodinal, stop solution &amp; fixing agent for analog photography in hostile environments</title>
       <link>//varezers.org/rodiynal/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>//varezers.org/rodiynal/</guid>
-      <description>Despite latest surge in popularity future of film photography is uncertain. I documented most popular homemade development solution recipes and calculated proportions of chemicals needed so any amount of any chemical can be measured accordingly. For more information on development check out further reading.
-Safety is your responsibility. Please handle all chemistry with respect it deserves - wear protective gloves and goggles, don&#39;t inhale or ingest chemistry, abstain from eating, bathroom and touching eyes without thoroughly washing your hands.</description>
+      <description>&lt;p&gt;Despite latest surge in popularity future of film photography is uncertain. I documented most popular homemade development solution recipes and calculated proportions of chemicals needed so any amount of any chemical can be measured accordingly. For more information on development &lt;a href=&#34;#further-reading&#34;&gt;check out further reading&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;figure class=&#34;warning&#34;&gt;&#xA;Safety is your responsibility. Please handle all chemistry with respect it deserves - wear protective gloves and goggles, don&#39;t inhale or ingest chemistry, abstain from eating, bathroom and touching eyes without thoroughly washing your hands. Information provided is for educational purposes and users are responsible for their own safety&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#rodiynal&#34;&gt;Rodiynal&lt;/a&gt;, &lt;a href=&#34;#stop-solution&#34;&gt;Stop solution&lt;/a&gt;, &lt;a href=&#34;#fixer&#34;&gt;Fixer&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Perverts guide to photography</title>
       <link>//varezers.org/on-photography/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>//varezers.org/on-photography/</guid>
-      <description>Photographers vision, good light, tasteful editing and lens are more important than the camera body. Visiting museums, galleries and expositions, and developing ones style is more beneficial than recreational technofetishism. Pretty much any modern camera will be leagues more advanced than what masters of old could afford at any moment in history.
-There is no &amp;ldquo;real&amp;rdquo; camera as they all do pretty much the same thing. Most people will not see any differences scrolling past on their social media feed.</description>
+      <description>&lt;p&gt;Photographers vision, good light, tasteful editing and lens are more important than the camera body. Visiting museums, galleries and expositions, and developing ones style is more beneficial than recreational technofetishism. Pretty much any modern camera will be leagues more advanced than what masters of old could afford at any moment in history.&lt;/p&gt;&#xA;&lt;p&gt;There is no &amp;quot;real&amp;quot; camera as they all do pretty much the same thing. Most people will not see any differences scrolling past on their social media feed. Different types and styles of photography will definitely help mastering ones craft and developing preferences, but some respectable photographers did well with first camera they had. Some don&#39;t care about the device.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Good films</title>
       <link>//varezers.org/films/</link>
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>//varezers.org/films/</guid>
-      <description>Science Fiction Arrival (2016) by Denis Villeneuve - twelve extraterrestrial spacecraft appear at twelve different locations across the Earth;
-Autómata (2014) by Gabe Ibáñez - In the late 2030s, solar flares irradiate the Earth, killing over 99% of the world&amp;rsquo;s population. The survivors gather in a network of safe cities and build primitive humanoid robots, called Pilgrims, to help rebuild and operate in the harsh environment;
-Blade Runner (1982) by Ridley Scott - is an adaptation of the 1968 novel Do Androids Dream of Electric Sheep?</description>
+      <description>&lt;h2 id=&#34;science-fiction&#34;&gt;Science Fiction&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;//en.wikipedia.org/wiki/Arrival_(film)&#34;&gt;Arrival (2016) by Denis Villeneuve&lt;/a&gt;&lt;/strong&gt; - twelve extraterrestrial spacecraft appear at twelve different locations across the Earth;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;//en.wikipedia.org/wiki/Aut%C3%B3mata&#34;&gt;Autómata (2014) by Gabe Ibáñez&lt;/a&gt;&lt;/strong&gt; - In the late 2030s, solar flares irradiate the Earth, killing over 99% of the world&#39;s population. The survivors gather in a network of safe cities and build primitive humanoid robots, called Pilgrims, to help rebuild and operate in the harsh environment;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;//en.wikipedia.org/wiki/Blade_Runner&#34;&gt;Blade Runner (1982) by Ridley Scott&lt;/a&gt;&lt;/strong&gt; - is an adaptation of the 1968 novel Do Androids Dream of Electric Sheep? by Philip K. Dick;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sections and outlines in HTML5</title>
       <link>//varezers.org/sections-and-outlines-in-html5/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>//varezers.org/sections-and-outlines-in-html5/</guid>
-      <description>Mozilla provides by far the best HTML5 introduction guide available on the net. Here I will outline tl;dr and provide example of «The Holy Grail» layout.
-Address The address element represents the contact information for its nearest article or body element ancestor.
-Article &amp;ldquo;The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication.</description>
+      <description>&lt;p&gt;Mozilla provides &lt;a href=&#34;//developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5&#34;&gt;by far the best HTML5 introduction guide&lt;/a&gt; available on the net. Here I will outline tl;dr and provide example of «The Holy Grail» layout.&lt;/p&gt;&#xA;&lt;h2 id=&#34;address&#34;&gt;Address&lt;/h2&gt;&#xA;&lt;p&gt;The address element represents the contact information for its nearest &lt;code&gt;article&lt;/code&gt; or &lt;code&gt;body&lt;/code&gt; element ancestor.&lt;/p&gt;&#xA;&lt;h2 id=&#34;article&#34;&gt;Article&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;quot;The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content.&amp;quot;&lt;/em&gt; (&lt;a href=&#34;https://www.w3.org/TR/html5/dom.html#element-dfn-categories&#34;&gt;source&lt;/a&gt;).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kas jāievēro ikvienam dzimtenes ceļiniekam</title>
       <link>//varezers.org/celvedis-pa-dzimto-zemi/</link>
       <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
-      
       <guid>//varezers.org/celvedis-pa-dzimto-zemi/</guid>
-      <description>Izraksts no K. Vanaga grāmatas «Ceļvedis pa dzimto zemi» 1. daļas &amp;ldquo;Vidzeme un Latgale&amp;rdquo; (Sabiedrisko lietu ministrijas Tūrisma nodaļas izdevums 1937).
-Cēls un skaists ir tūrisma sports, tādēļ dzimtenes apceļotājam visur jāuzvedas tā, lai pret tūristiem sajustu cienību. Noželojami ir tie, kas saka, ka ceļojumā ievērot pieklājību nozīmē sagādāt sev neērtības. Tie nav tūristi, kas ceļojot atstājuši mājās pieklājību un smalkjūtību, iedomājoties, ka svešā malā neviens viņu nepazīs. Pieklājība jāievēro nevien darbos un vārdos, bet arī apģērbā.</description>
+      <description>&lt;p&gt;&lt;em&gt;Izraksts no K. Vanaga grāmatas «Ceļvedis pa dzimto zemi» 1. daļas &amp;quot;Vidzeme un Latgale&amp;quot; (Sabiedrisko lietu ministrijas Tūrisma nodaļas izdevums 1937).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Cēls un skaists ir tūrisma sports, tādēļ dzimtenes apceļotājam visur jāuzvedas tā, lai pret tūristiem sajustu cienību. Noželojami ir tie, kas saka, ka ceļojumā ievērot pieklājību nozīmē sagādāt sev neērtības. Tie nav tūristi, kas ceļojot atstājuši mājās pieklājību un smalkjūtību, iedomājoties, ka svešā malā neviens viņu nepazīs. Pieklājība jāievēro nevien darbos un vārdos, bet arī apģērbā. Cienījiet savus ceļa biedrus un ikvienu cilvēku kā dzelzceļa vagonā, tā tūristu apmetnē, mežā vai klājā laukā. Esiet nopietni visās lietās, vienmēr apdomīgi ar jokiem un asprātībām.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>arts on Varezers</title>
+    <title>Arts on Varezers</title>
     <link>//varezers.org/tags/arts/</link>
-    <description>Recent content in arts on Varezers</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Arts on Varezers</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="//varezers.org/tags/arts/feed.xml" rel="self" type="application/rss" />
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//varezers.org/tags/arts/feed.xml" rel="self" type="application/rss" />
     <item>
       <title>Introduction to visual arts</title>
       <link>//varezers.org/painting/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>//varezers.org/painting/</guid>
-      <description>Congratulations on reaching top of Maslov&amp;rsquo;s hierarchy of needs, even if you decided to skip a few layers. But to be fair to painting - it is extremely therapeutic, interesting and one more creative way to annoy people with some unnecessarily personal gifts.
-The hobby in itself might seem forbiddingly expensive but in reality a lot of fun can be squeezed out of the tube of paint.
-Tools &amp;amp; consumables Surface - depends on viscosity of a medium.</description>
+      <description>&lt;p&gt;Congratulations on reaching top of Maslov&#39;s hierarchy of needs, even if you decided to skip a few layers. But to be fair to painting - it is extremely therapeutic, interesting and one more creative way to annoy people with some unnecessarily personal gifts.&lt;/p&gt;&#xA;&lt;p&gt;The hobby in itself might seem forbiddingly expensive but in reality a lot of fun can be squeezed out of the tube of paint.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tools--consumables&#34;&gt;Tools &amp;amp; consumables&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Surface&lt;/strong&gt; - depends on viscosity of a medium. Generally canvas or panels for oil and acrylics, different weight and thickness paper for everything else.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Good films</title>
       <link>//varezers.org/films/</link>
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>//varezers.org/films/</guid>
-      <description>Science Fiction Arrival (2016) by Denis Villeneuve - twelve extraterrestrial spacecraft appear at twelve different locations across the Earth;
-Autómata (2014) by Gabe Ibáñez - In the late 2030s, solar flares irradiate the Earth, killing over 99% of the world&amp;rsquo;s population. The survivors gather in a network of safe cities and build primitive humanoid robots, called Pilgrims, to help rebuild and operate in the harsh environment;
-Blade Runner (1982) by Ridley Scott - is an adaptation of the 1968 novel Do Androids Dream of Electric Sheep?</description>
+      <description>&lt;h2 id=&#34;science-fiction&#34;&gt;Science Fiction&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;//en.wikipedia.org/wiki/Arrival_(film)&#34;&gt;Arrival (2016) by Denis Villeneuve&lt;/a&gt;&lt;/strong&gt; - twelve extraterrestrial spacecraft appear at twelve different locations across the Earth;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;//en.wikipedia.org/wiki/Aut%C3%B3mata&#34;&gt;Autómata (2014) by Gabe Ibáñez&lt;/a&gt;&lt;/strong&gt; - In the late 2030s, solar flares irradiate the Earth, killing over 99% of the world&#39;s population. The survivors gather in a network of safe cities and build primitive humanoid robots, called Pilgrims, to help rebuild and operate in the harsh environment;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;//en.wikipedia.org/wiki/Blade_Runner&#34;&gt;Blade Runner (1982) by Ridley Scott&lt;/a&gt;&lt;/strong&gt; - is an adaptation of the 1968 novel Do Androids Dream of Electric Sheep? by Philip K. Dick;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
