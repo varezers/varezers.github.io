@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Varezers</title>
-    <link>//varezers.org/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on Varezers</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//varezers.org/categories/feed.xml" rel="self" type="application/rss" />
+    <atom:link href="//localhost:1313/categories/feed.xml" rel="self" type="application/rss" />
   </channel>
 </rss>

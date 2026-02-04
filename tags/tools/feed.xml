@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Varezers</title>
-    <link>//varezers.org/tags/tools/</link>
+    <link>//localhost:1313/tags/tools/</link>
     <description>Recent content in Tools on Varezers</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//varezers.org/tags/tools/feed.xml" rel="self" type="application/rss" />
+    <atom:link href="//localhost:1313/tags/tools/feed.xml" rel="self" type="application/rss" />
     <item>
       <title>Guide to homemade Rodinal, stop solution &amp; fixing agent for analog photography in hostile environments</title>
-      <link>//varezers.org/rodiynal/</link>
+      <link>//localhost:1313/rodiynal/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/rodiynal/</guid>
+      <guid>//localhost:1313/rodiynal/</guid>
       <description>&lt;p&gt;Despite latest surge in popularity future of film photography is uncertain. I documented most popular homemade development solution recipes and calculated proportions of chemicals needed so any amount of any chemical can be measured accordingly. For more information on development &lt;a href=&#34;#further-reading&#34;&gt;check out further reading&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;figure class=&#34;warning&#34;&gt;&#xA;Safety is your responsibility. Please handle all chemistry with respect it deserves - wear protective gloves and goggles, don&#39;t inhale or ingest chemistry, abstain from eating, bathroom and touching eyes without thoroughly washing your hands. Information provided is for educational purposes and users are responsible for their own safety&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#rodiynal&#34;&gt;Rodiynal&lt;/a&gt;, &lt;a href=&#34;#stop-solution&#34;&gt;Stop solution&lt;/a&gt;, &lt;a href=&#34;#fixer&#34;&gt;Fixer&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

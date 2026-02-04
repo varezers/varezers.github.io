@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urbex on Varezers</title>
-    <link>//varezers.org/tags/urbex/</link>
+    <link>//localhost:1313/tags/urbex/</link>
     <description>Recent content in Urbex on Varezers</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 13 Mar 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//varezers.org/tags/urbex/feed.xml" rel="self" type="application/rss" />
+    <atom:link href="//localhost:1313/tags/urbex/feed.xml" rel="self" type="application/rss" />
     <item>
       <title>R12-U Soviet nuclear missile silo visit</title>
-      <link>//varezers.org/r12u-nuclear-missile-silo/</link>
+      <link>//localhost:1313/r12u-nuclear-missile-silo/</link>
       <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/r12u-nuclear-missile-silo/</guid>
+      <guid>//localhost:1313/r12u-nuclear-missile-silo/</guid>
       <description>&lt;p&gt;In 2011 I have visited few nuclear missile complexes for exploration purposes, but unfortunately our expedition failed. Yes, we got to see some 30 m deep missile silos and play with the echoes, but the command bunker was not accessible. Another complex was excavated and only one flooded missile socket was seen without a dome. This time we went to another complex and our trip ended in success. But for the start, I will explain what and why we visited.&lt;/p&gt;</description>
     </item>
     <item>
       <title>R12-U kodolraķešu bāzes apmeklējums Latvijā</title>
-      <link>//varezers.org/r12u-kodolrakesu-baze/</link>
+      <link>//localhost:1313/r12u-kodolrakesu-baze/</link>
       <pubDate>Fri, 10 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/r12u-kodolrakesu-baze/</guid>
+      <guid>//localhost:1313/r12u-kodolrakesu-baze/</guid>
       <description>&lt;p&gt;2011 gada ziemā mēs apmeklējām R-12 raķešu bāzi, taču tas netika pienācīgi dokumentēts jo jaunie saimnieki pamatīgi pacentās visu padomju brīnumu likvidēt. Bija palikuši perimetra kontrolpunkti un viena neaizbērta raķešu palaišanas šahta bez kupola. Pēc Liepājas talkas apmeklējām vēl vienu R-14 raķešu bāzi, kura mūs sagaidīja jau ar vairākām raķešu palaišanas šahtām, taču kontroles bunkurs bija aizbērts.&lt;/p&gt;&#xA;&lt;p&gt;Šoreiz R-12U kodolraķešu palaišanas bunkurā sekmīgi iekļuvām un sākām pētīt objektu.&#xA;Tātad, no sākuma jāpastāsta par raķetēm. Padomju šķidrās degvielas vidējā rādiusa ballistiskā raķete bija 24 metrus gara, svēra 41 tonnas ar pilnu bāku. Tās maksimālais darbības rādiuss bija 2080 km. Raķete tika piepildīta ar degvielu īsi pirms palaišanas un kopā ar žiroskopa sagatavošanu bija kaujas gatavībā pēc aptuveni pusstundas uzreiz pēc aizsargkupola noņemšanas. Aizsargkupols - liels betona kupols tika noņemts ar domkratu un nobidījās pa sliedēm. Vēlāk katru raķeti palaida gaisā atsevišķi un katrai raķetei bija sava vadības pults.&lt;/p&gt;</description>
     </item>
   </channel>

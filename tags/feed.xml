@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Varezers</title>
-    <link>//varezers.org/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Varezers</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//varezers.org/tags/feed.xml" rel="self" type="application/rss" />
+    <atom:link href="//localhost:1313/tags/feed.xml" rel="self" type="application/rss" />
     <item>
       <title>Recipes</title>
-      <link>//varezers.org/tags/recipes/</link>
+      <link>//localhost:1313/tags/recipes/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/tags/recipes/</guid>
+      <guid>//localhost:1313/tags/recipes/</guid>
       <description></description>
     </item>
     <item>
       <title>Arts</title>
-      <link>//varezers.org/tags/arts/</link>
+      <link>//localhost:1313/tags/arts/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/tags/arts/</guid>
+      <guid>//localhost:1313/tags/arts/</guid>
       <description></description>
     </item>
     <item>
       <title>Synopsis</title>
-      <link>//varezers.org/tags/synopsis/</link>
+      <link>//localhost:1313/tags/synopsis/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/tags/synopsis/</guid>
+      <guid>//localhost:1313/tags/synopsis/</guid>
       <description></description>
     </item>
     <item>
       <title>Photography</title>
-      <link>//varezers.org/tags/photography/</link>
+      <link>//localhost:1313/tags/photography/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/tags/photography/</guid>
+      <guid>//localhost:1313/tags/photography/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>//varezers.org/tags/tools/</link>
+      <link>//localhost:1313/tags/tools/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/tags/tools/</guid>
+      <guid>//localhost:1313/tags/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Adventure</title>
-      <link>//varezers.org/tags/adventure/</link>
+      <link>//localhost:1313/tags/adventure/</link>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/tags/adventure/</guid>
+      <guid>//localhost:1313/tags/adventure/</guid>
       <description></description>
     </item>
     <item>
       <title>Essay</title>
-      <link>//varezers.org/tags/essay/</link>
+      <link>//localhost:1313/tags/essay/</link>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/tags/essay/</guid>
+      <guid>//localhost:1313/tags/essay/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>//varezers.org/tags/programming/</link>
+      <link>//localhost:1313/tags/programming/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/tags/programming/</guid>
+      <guid>//localhost:1313/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Romania</title>
-      <link>//varezers.org/tags/romania/</link>
+      <link>//localhost:1313/tags/romania/</link>
       <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/tags/romania/</guid>
+      <guid>//localhost:1313/tags/romania/</guid>
       <description></description>
     </item>
     <item>
       <title>Volunteering</title>
-      <link>//varezers.org/tags/volunteering/</link>
+      <link>//localhost:1313/tags/volunteering/</link>
       <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/tags/volunteering/</guid>
+      <guid>//localhost:1313/tags/volunteering/</guid>
       <description></description>
     </item>
     <item>
       <title>Urbex</title>
-      <link>//varezers.org/tags/urbex/</link>
+      <link>//localhost:1313/tags/urbex/</link>
       <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>//varezers.org/tags/urbex/</guid>
+      <guid>//localhost:1313/tags/urbex/</guid>
       <description></description>
     </item>
   </channel>
