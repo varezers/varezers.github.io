@@ -1,7 +1,7 @@
 baseurl         = "//varezers.org"
 title           = "Varezers"
 theme           = "Diogenes"
-canonifyurls    = true
+canonifyurls    = false
 pygmentsStyle   = "monokai"
 rssLimit        = 50
 enableEmoji     = true
