@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recipes on Varezers</title>
-    <link>//localhost:1313/tags/recipes/</link>
+    <link>//varezers.org/tags/recipes/</link>
     <description>Recent content in Recipes on Varezers</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/recipes/feed.xml" rel="self" type="application/rss" />
+    <atom:link href="//varezers.org/tags/recipes/feed.xml" rel="self" type="application/rss" />
     <item>
       <title>Veganuāris</title>
-      <link>//localhost:1313/veganuaris/</link>
+      <link>//varezers.org/veganuaris/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/veganuaris/</guid>
+      <guid>//varezers.org/veganuaris/</guid>
       <description>&lt;p&gt;Izgriezumi no &lt;a href=&#34;//neapedzemeslodi.lv&#34;&gt;neapedzemeslodi.lv&lt;/a&gt; vegānu izaicinājuma&lt;/p&gt;&#xA;&lt;p&gt;Vieglākais veids, kā uzņemt pilnvērtīgu uzturu, ir ievērojot &amp;quot;šķīvja principu&amp;quot;. Tas parāda, kādas produktu grupas jāiekļauj katrā maltītē.&lt;/p&gt;&#xA;&lt;h2 id=&#34;šķīvja-princips-paredz-ka-uzturā-jāiekļauj&#34;&gt;&amp;quot;Šķīvja princips&amp;quot; paredz, ka uzturā jāiekļauj:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ogļhidrātus saturoši produkti&lt;/strong&gt; – graudaugi (rīsi, griķi u.c.), kartupeļi, maize u.c. Īpaši vērtīgi ir pilngraudu produkti, jo tie nodrošina enerģiju ilgākam laikam, nerada tik lielas cukura svārstības asinīs kā rafinētie produkti, kā arī papildina uzturu ar vērtīgām šķiedrvielām, vitamīniem, minerālvielām.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Proteīna jeb olbaltumvielu avoti&lt;/strong&gt; – pākšaugi (lēcas, visa veida zirņi, pupiņas, tostarp sojas pupiņas un to produkti, piemēram, tofu, tempe, kā arī seitans, kas pagatavots no kviešu olbaltumvielas – glutēna jeb lipekļa). Labs proteīna avots ir arī sēklas un rieksti, īpaši no tiem gatavoti proteīna pulveri (piemēram, ķirbju vai kaņepju sēklu proteīns). Lai uzņemtu olbaltumvielas visvērtīgākajā veidā, ieteicams pākšaugus vienā maltītē kombinēt ar graudaugiem.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dārzeņi un augļi&lt;/strong&gt; – gan svaigi, gan dažādos veidos pagatavoti dārzeņi uzturu bagātinās ar šķiedrvielām, vitamīniem, minerālvielām un antioksidantiem!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Veselīgas taukvielas&lt;/strong&gt; – augu eļļas, rieksti, avokado uzturu bagātina ar vērtīgām nepiesātinātām taukskābēm un taukos šķīstošiem vitamīniem.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reizēm, mainot uztura paradumus un ēdot vairāk pākšaugu, vēderam pie jaunā režīma ir &amp;quot;jāpierod&amp;quot; un uz laiku tas var neierasti justies.&lt;/strong&gt; To iespējams mazināt, kārtīgi izmērcējot pākšaugus un nomainot ūdeni, kurā tie turēti vai arī noskalojot konservētus pākšaugus. Pret vēdera pūšanos var palīdzēt garšvielas – čili, ingvers, pipari, ķiploks, kumīns, fenhelis, anīss, diļļu sēklas.&lt;/p&gt;</description>
     </item>
   </channel>

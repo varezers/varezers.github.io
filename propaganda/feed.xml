@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Propaganda on Varezers</title>
-    <link>//localhost:1313/propaganda/</link>
+    <link>//varezers.org/propaganda/</link>
     <description>Recent content in Propaganda on Varezers</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/propaganda/feed.xml" rel="self" type="application/rss" />
+    <atom:link href="//varezers.org/propaganda/feed.xml" rel="self" type="application/rss" />
     <item>
       <title></title>
-      <link>//localhost:1313/kaspars/</link>
+      <link>//varezers.org/kaspars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/kaspars/</guid>
+      <guid>//varezers.org/kaspars/</guid>
       <description>&lt;p&gt;Check out my social links!&lt;/p&gt;&#xA;&lt;a href=&#34;//varezers.org&#34;&gt;varezers.org&lt;/a&gt;&#xA;&lt;a href=&#34;//instagram.com/varezers&#34;&gt;instagram&lt;/a&gt;&#xA;&lt;a href=&#34;//bere.al/varezers&#34;&gt;be real&lt;/a&gt;</description>
     </item>
   </channel>

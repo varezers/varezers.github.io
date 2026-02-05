@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Varezers</title>
-    <link>//localhost:1313/tags/programming/</link>
+    <link>//varezers.org/tags/programming/</link>
     <description>Recent content in Programming on Varezers</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/programming/feed.xml" rel="self" type="application/rss" />
+    <atom:link href="//varezers.org/tags/programming/feed.xml" rel="self" type="application/rss" />
     <item>
       <title>Sections and outlines in HTML5</title>
-      <link>//localhost:1313/sections-and-outlines-in-html5/</link>
+      <link>//varezers.org/sections-and-outlines-in-html5/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/sections-and-outlines-in-html5/</guid>
+      <guid>//varezers.org/sections-and-outlines-in-html5/</guid>
       <description>&lt;p&gt;Mozilla provides &lt;a href=&#34;//developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5&#34;&gt;by far the best HTML5 introduction guide&lt;/a&gt; available on the net. Here I will outline tl;dr and provide example of «The Holy Grail» layout.&lt;/p&gt;&#xA;&lt;h2 id=&#34;address&#34;&gt;Address&lt;/h2&gt;&#xA;&lt;p&gt;The address element represents the contact information for its nearest &lt;code&gt;article&lt;/code&gt; or &lt;code&gt;body&lt;/code&gt; element ancestor.&lt;/p&gt;&#xA;&lt;h2 id=&#34;article&#34;&gt;Article&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;quot;The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content.&amp;quot;&lt;/em&gt; (&lt;a href=&#34;https://www.w3.org/TR/html5/dom.html#element-dfn-categories&#34;&gt;source&lt;/a&gt;).&lt;/p&gt;</description>
     </item>
   </channel>
