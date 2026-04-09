@@ -1,7 +1,6 @@
 {{ partial "header" . }}
 {{ partial "welcome" . }}
 <main>
-	<h2>Publications</h2>
 	{{ $posts := where .Site.Pages "Params.type" "post" }}
 	{{ range $posts }}
 	  {{ .Render "list" }}

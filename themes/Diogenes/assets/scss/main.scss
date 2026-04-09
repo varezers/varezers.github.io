@@ -8,6 +8,15 @@
 	quotes: " « " " » " "`" "`";
 }
 
+a {
+	color: color-mix(in srgb, canvastext, transparent 30%);
+	transition: color 0.2s ease;
+
+	&:hover	{
+		color: canvastext;
+	}
+}
+
 body {
 	margin-inline: auto;
 	max-width:  80ch;
@@ -16,6 +25,8 @@ body {
 
 header,
 footer {
+	max-width: 70ch;
+	text-wrap: balance;
 	text-align: center;
 }
 
@@ -71,5 +82,11 @@ blockquote {
 		&::after {
 			content: none;
 		}
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	:root {
+		filter: sepia(15%) contrast(90%);
 	}
 }

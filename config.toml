@@ -9,7 +9,7 @@ enableRSS		= true
 
 [params]
     description = "Reflections on art, adventures, philosophy, life and everything..."
-    welcome_header = "Kaspars. > Explorer, problem solver, and skill collector."
+    welcome_header = "Kaspars."
 [permalinks]
     post         = ":slug"
     propaganda   = ":slug"
