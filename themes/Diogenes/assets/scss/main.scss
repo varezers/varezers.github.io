@@ -1,26 +1,16 @@
 /*! KISS */
-
-$color-main: #444444;
-$font-main: 1.1rem;
-$max-width: 80ch;
-
 :root {
 	background-color: #f2f2f2;
 	font-size: 100%;
-	color: $color-main;
-	font-size: $font-main;
+	color: #444444;
+	font-size: 1.1rem;
 	line-height: 1.6;
 }
 
 body {
-	margin: 40px auto;
-	max-width: $max-width;
-	padding: 0 2%;
-}
-
-h1, h2, h3 {
-    line-height: 1.2;
-    margin-top: 2rem;
+	margin-inline: auto;
+	max-width:  80ch;
+	padding: 2rem;
 }
 
 header,
@@ -47,10 +37,25 @@ table {
 
 	th,
 	td {
-		border-bottom: 0.1rem solid $color-main;
+		border-bottom: 0.1rem solid #444444;
 	}
 }
 
 blockquote {
 	font-style: italic;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		background-color: #252B2B;
+		color: #DFA05D;
+	}
+
+	a {
+		color: #AC5045;
+	}
+
+	a:hover {
+		color: #658761;
+	}
 }
