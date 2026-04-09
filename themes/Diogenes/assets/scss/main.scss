@@ -1,29 +1,30 @@
 /*! KISS */
 :root {
-	background-color: #f2f2f2;
-	font-size: 100%;
-	color: #444444;
+	color-scheme: light dark;
+	background-color: canvas;
+	color: canvastext;
 	font-size: 1.1rem;
 	line-height: 1.6;
+	quotes: " « " " » " "`" "`";
 }
 
 body {
 	margin-inline: auto;
 	max-width:  80ch;
-	padding: 2rem;
+	padding: 2vi 5vi;
 }
 
 header,
 footer {
 	text-align: center;
-	margin: 3rem 0;
 }
 
 img {
 	display: block;
 	max-height: 100vh;
 	max-width: 100%;
-	margin: 0.75em auto;
+	margin-block: 0.75rem;
+	border-radius: 2px;
 }
 
 pre,
@@ -32,30 +33,43 @@ table {
 }
 
 table {
-	border-spacing: 0;
+	border-collapse: collapse;
+	font-variant-numeric: tabular-nums;
 	width: 100%;
 
 	th,
 	td {
-		border-bottom: 0.1rem solid #444444;
+		border-bottom: 0.1rem solid canvastext;
+		text-align: left;
 	}
 }
 
 blockquote {
 	font-style: italic;
-}
+	font-size: 1.15rem;
+	margin-inline: 1.5rem 0;
+	padding-inline: 2.5vw;
+	text-wrap: pretty;
 
-@media (prefers-color-scheme: dark) {
-	:root {
-		background-color: #252B2B;
-		color: #DFA05D;
+	p:first-of-type {
+		&::before {
+			content: open-quote;
+		}
+
+		&::after {
+			content: close-quote;
+		}
 	}
 
-	a {
-		color: #AC5045;
-	}
-
-	a:hover {
-		color: #658761;
+	cite {
+		display: block;
+		text-align: right;
+		font-size: 0.9rem;
+		opacity: 0.8;
+		
+		&::before,
+		&::after {
+			content: none;
+		}
 	}
 }

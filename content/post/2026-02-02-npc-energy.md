@@ -10,7 +10,7 @@ I feel that most people have "fitting in" phase in their life on their journey t
 
 > If you're understood, you've failed as an artist.
 >
-> —— allegedly David Bowie
+> <cite>—— allegedly David Bowie</cite>
 
 Or so they say.
 
